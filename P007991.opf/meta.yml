@@ -1,15 +1,16 @@
-id: opecha:P007991
+id: P007991
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG9298
   title: གདམས་ངག་མཛོད་ཀྱི་ཟིན་ཐོ།
-  volume:
+  author: ''
+  volumes:
     daac81ab1fa448a89f2505646c5bc6c2:
       image_group_id: I1KG9386
       title: Volume 1 of gdams ngag mdzod notes
       volume_number: 1
       total_pages: 198
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གདམས་ངག་མཛོད་ཀྱི་ཟིན་ཐོ།
   author: ''
